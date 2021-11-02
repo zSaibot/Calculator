@@ -1,7 +1,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: medium; /*change fonts later*/
 }
 
 body {
